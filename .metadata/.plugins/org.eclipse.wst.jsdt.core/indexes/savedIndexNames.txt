@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+D:\LanSchool Files\LPII\LPII_Sesión_04 - Rec\LPII_Sesión_04 - Rec\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+891564752.index
+153671075.index
+1261664213.index
+2964548884.index
